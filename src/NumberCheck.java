@@ -14,3 +14,4 @@ public class NumberCheck {
             System.out.println("Zero");
     }
 }
+
