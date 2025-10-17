@@ -1,6 +1,6 @@
 public class NumberTriangleIncrement {
     public static void main(String[] args) {
-        int n = 4;  // number of rows
+        int n = 4;
         int num = 1;
 
         for (int i = 1; i <= n; i++) {
